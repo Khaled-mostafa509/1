@@ -1,0 +1,15 @@
+bootstrap4
+dj-database-url
+Django
+django-bootstrap4
+django-filter
+django-forms-bootstrap
+django-jazzmin
+Django-Verify-Email
+djangorestframework
+pillow
+pycparser
+python-dotenv
+verify-email
+whitenoise
+django-heroku
